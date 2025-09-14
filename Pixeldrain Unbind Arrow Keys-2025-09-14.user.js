@@ -2,7 +2,7 @@
 // @name         Pixeldrain Unbind Arrow Keys
 // @namespace    http://tampermonkey.net/
 // @version      2025-09-14
-// @description  Unbind arrow keys that binded to switching next and previous item in album
+// @description  Unbind arrow keys which are binded for switching next and previous item in album
 // @author       DebNation
 // @match        https://pixeldrain.com/*
 // @match        https://pixeldrain.net/*
