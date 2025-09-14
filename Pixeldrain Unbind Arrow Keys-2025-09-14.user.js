@@ -7,7 +7,7 @@
 // @match        https://pixeldrain.com/*
 // @match        https://pixeldrain.net/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=pixeldrain.com
-// @grant        none
+// @grant        GM_openInTab
 // ==/UserScript==
 
 (function() {
